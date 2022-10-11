@@ -27,3 +27,4 @@ In addition there is a [`Provider` example](https://github.com/csdcorp/speech_to
 
 _These examples work only with the plugin source checked out because their dependency is on a relative path, not the pub.dev version._
 
+ 
